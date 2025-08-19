@@ -42,7 +42,7 @@ const teamMembers = [
     role: "Membre",
     specialty: "goat ultime il sait tout faire",
     quote: "Peut faire une RCE avec une calculatrice Casio. 'Flag trouvé sur la TI-83.'",
-    avatar: "https://images.unsplash.com/photo-1577003833619-76bbd7f82948?w=400&h=400&fit=crop"
+    avatar: "https://images.unsplash.com/photo-1601004890684-d8cbf643f5f2?w=400&h=400&fit=crop"
   },
   {
     name: "bloman",
@@ -56,7 +56,7 @@ const teamMembers = [
     role: "Membre",
     specialty: "forensic, osint",
     quote: "Retrouve des clés privées dans les métadonnées des selfies. 'Ton flag fuit plus que ton ex sur Insta.'",
-    avatar: "https://images.unsplash.com/photo-1506905925346-21bda4d32df4?w=400&h=400&fit=crop"
+    avatar: "https://images.unsplash.com/photo-1513789181297-6f2ec112c0bc?w=400&h=400&fit=crop"
   },
   {
     name: "Shor",
@@ -77,7 +77,7 @@ const teamMembers = [
     role: "Membre",
     specialty: "rev, crypto",
     quote: "Le crack du reverse. 'Pendant que tu lis ça, j'ai déjà fini le CTF.'",
-    avatar: "https://images.unsplash.com/photo-1565299624946-b28f40a0ca4b?w=400&h=400&fit=crop"
+    avatar: "https://images.unsplash.com/photo-1614064643087-96ce7f0737c8?w=400&h=400&fit=crop"
   },
   {
     name: "paw",
@@ -105,7 +105,7 @@ const teamMembers = [
     role: "Membre",
     specialty: "osint, stégano",
     quote: "A trouvé 16 failles critiques sur l'infra de 42 en une journée ! Et il est challmaker osint x stégano à ses heures perdues.",
-    avatar: "https://images.unsplash.com/photo-1601004890684-d8cbf643f5f2?w=400&h=400&fit=crop"
+    avatar: "https://images.unsplash.com/photo-1568027763595-ef293f388029?w=400&h=400&fit=crop"
   },
   {
     name: "Astral",
@@ -140,7 +140,7 @@ const teamMembers = [
     role: "Membre",
     specialty: "hardware, forensic",
     quote: "A dumpé une clé RSA en écoutant le bruit d'une ampoule connectée. 'Ton chiffrement fuit par les ondes, bro.'",
-    avatar: "https://images.unsplash.com/photo-1619566636890-d68bf675410f?w=400&h=400&fit=crop"
+    avatar: "https://images.unsplash.com/photo-1519575706483-221027bfbb31?w=400&h=400&fit=crop"
   }
 ];
 
