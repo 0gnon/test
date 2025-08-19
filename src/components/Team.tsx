@@ -6,140 +6,140 @@ const teamMembers = [
     name: "45exile",
     role: "Chef",
     specialty: "reverse",
-    quote: "Peut désassembler un binaire rien qu'en le regardant. A déjà patché un kernel Linux avec un marteau.",
+    quote: "Peut unpacker un binaire avant même que vous ayez fini de le télécharger...",
     avatar: "https://images.pexels.com/photos/614810/pexels-photo-614810.jpeg?auto=compress&cs=tinysrgb&w=400"
   },
   {
     name: "Loutre",
     role: "Membre",
     specialty: "web (xss)",
-    quote: "Expert en vulnérabilités web. A XSSé son propre navigateur pendant ses tests. 'C'est une feature, pas un bug!'",
+    quote: "A XSSé son propre frigo connecté. 'Mon yaourt a poppé une alert(1)...'",
     avatar: "https://images.pexels.com/photos/1239291/pexels-photo-1239291.jpeg?auto=compress&cs=tinysrgb&w=400"
   },
   {
     name: "Ognon",
     role: "Membre",
     specialty: "web, Active Directory",
-    quote: "Fait pleurer les admins sys avec ses exploits. 'Mais pourquoi tu cries? C'est juste une petite requête LDAP...'",
+    quote: "Fait pleurer les admins comme des oignons. 'Un DC de down ? Normal, j’ai juste ouvert Outlook.'",
     avatar: "https://images.pexels.com/photos/2379004/pexels-photo-2379004.jpeg?auto=compress&cs=tinysrgb&w=400"
   },
   {
     name: "Ssor",
     role: "Membre",
     specialty: "web",
-    quote: "Code en PHP sans framework, comme un barbare. 'Les ORM? C'est pour les faibles!'",
+    quote: "Son IDE préféré : cat. Son debugger : echo. 'Le reste c'est du confort inutile.'",
     avatar: "https://images.pexels.com/photos/1181686/pexels-photo-1181686.jpeg?auto=compress&cs=tinysrgb&w=400"
   },
   {
     name: "Tisco",
     role: "Membre",
     specialty: "web, réseau",
-    quote: "A déjà sniffé un paquet TCP avec des jumelles. 'Non mais je peux voir les bits passer!'",
+    quote: "Sniffe les paquets réseau en tendant l’oreille. 'Ping flood ? J’ai entendu un écho.'",
     avatar: "https://images.pexels.com/photos/1080213/pexels-photo-1080213.jpeg?auto=compress&cs=tinysrgb&w=400"
   },
   {
     name: "vorstag34",
     role: "Membre",
     specialty: "goat ultime il sait tout faire",
-    quote: "Le couteau suisse ultime. Peut faire une RCE avec une calculatrice Casio.",
+    quote: "Peut faire une RCE avec une calculatrice Casio. 'Flag trouvé sur la TI-83.'",
     avatar: "https://images.pexels.com/photos/1559486/pexels-photo-1559486.jpeg?auto=compress&cs=tinysrgb&w=400"
   },
   {
     name: "bloman",
     role: "Membre",
     specialty: "boot2root, couteau suisse",
-    quote: "Expert en escalade de privilèges. 'root? C'était trop facile, je me suis auto-déclassé en nobody pour le challenge.'",
+    quote: "'Root trop facile ? Je me suis volontairement rétrogradé en nobody pour la beauté du geste.'",
     avatar: "https://images.pexels.com/photos/1222271/pexels-photo-1222271.jpeg?auto=compress&cs=tinysrgb&w=400"
   },
   {
     name: "H4ldir",
     role: "Membre",
     specialty: "forensic, osint",
-    quote: "A retrouvé la clé USB perdue du CEO rien qu'avec les métadonnées d'un screenshot.",
+    quote: "Retrouve des clés privées dans les métadonnées des selfies. 'Ton flag fuit plus que ton ex sur Insta.'",
     avatar: "https://images.pexels.com/photos/1043471/pexels-photo-1043471.jpeg?auto=compress&cs=tinysrgb&w=400"
   },
   {
     name: "Shor",
     role: "Membre",
     specialty: "web, pwn",
-    quote: "Pwner professionnel. 'Segfault? Non, c'est juste ma technique de débogage.'",
+    quote: "Pwner professionnel. 'Segfault ? Non, c'est ma feature de debug.'",
     avatar: "https://images.pexels.com/photos/2182970/pexels-photo-2182970.jpeg?auto=compress&cs=tinysrgb&w=400"
   },
   {
     name: "z3d",
     role: "Membre",
     specialty: "web, crypto",
-    quote: "Cryptographe en herbe. 'J'ai cracké ce RSA... enfin, quand je dis cracké, j'ai trouvé la clé sous le pot de fleur...'",
+    quote: "Cryptographe en herbe. 'J’ai cassé ce RSA… la clé était sous le paillasson.'",
     avatar: "https://images.pexels.com/photos/1105666/pexels-photo-1105666.jpeg?auto=compress&cs=tinysrgb&w=400"
   },
   {
     name: "toby",
     role: "Membre",
-    specialty: "rev, crypto, c'est un crack",
-    quote: "Le crack du reverse. 'Ce binaire? Déjà fait. Pendant que tu lisais cette description.'",
+    specialty: "rev, crypto",
+    quote: "Le crack du reverse. 'Pendant que tu lis ça, j’ai déjà fini le CTF.'",
     avatar: "https://images.pexels.com/photos/1681010/pexels-photo-1681010.jpeg?auto=compress&cs=tinysrgb&w=400"
   },
   {
     name: "paw",
     role: "Membre",
     specialty: "web, pwn",
-    quote: "Chasseur de bugs. 'C'est pas un bug, c'est une backdoor. La mienne.'",
+    quote: "Chasseur de bugs. 'C’est pas un bug, c’est ma backdoor perso.'",
     avatar: "https://images.pexels.com/photos/1545590/pexels-photo-1545590.jpeg?auto=compress&cs=tinysrgb&w=400"
   },
   {
     name: "Kuzamyy",
     role: "Membre",
     specialty: "web, couteau suisse",
-    quote: "Polyvalent et efficace. 'J'ai codé ce site en Brainfuck pour m'amuser.'",
+    quote: "Polyvalent. 'J’ai recodé Metasploit en Brainfuck, pour le fun.'",
     avatar: "https://images.pexels.com/photos/1680172/pexels-photo-1680172.jpeg?auto=compress&cs=tinysrgb&w=400"
   },
   {
     name: "Blossom",
     role: "Membre",
     specialty: "forensic, crypto",
-    quote: "Génie du forensic. 'Cette image? C'est clairement un stégo. La preuve: sort un flag de nulle part'",
+    quote: "Sort des flags de nulle part. 'Ton JPEG est un CTF à lui tout seul.'",
     avatar: "https://images.pexels.com/photos/1130626/pexels-photo-1130626.jpeg?auto=compress&cs=tinysrgb&w=400"
   },
   {
     name: "Prox",
     role: "Membre",
     specialty: "osint, stégano",
-    quote: "A déjà trouvé une faille sur l'infra de 42 en regardant les EXIF d'une photo de chat.",
+    quote: "A trouvé 16 failles critiques sur l’infra de 42 en une journée ! Et il est challmaker osint x stégano à ses heures perdues.",
     avatar: "https://images.pexels.com/photos/1024311/pexels-photo-1024311.jpeg?auto=compress&cs=tinysrgb&w=400"
   },
   {
     name: "Astral",
     role: "Membre",
     specialty: "réseau, web",
-    quote: "Son niveau sur Valo est impressionnant. 'Headshot? Non, j'ai juste exploité une vuln 0day dans le jeu.'",
+    quote: "Frag shooter & net hacker. 'Mon headshot ? Juste un exploit UDP.'",
     avatar: "https://images.pexels.com/photos/1040881/pexels-photo-1040881.jpeg?auto=compress&cs=tinysrgb&w=400"
   },
   {
     name: "Kaiimos",
     role: "Membre",
     specialty: "débutant",
-    quote: "Passionné, gros potentiel. 'J'ai rooté mon propre PC... c'était pas intentionnel!'",
+    quote: "A déjà root son propre PC par accident. 'Exploit non intentionnel validé.'",
     avatar: "https://images.pexels.com/photos/1288182/pexels-photo-1288182.jpeg?auto=compress&cs=tinysrgb&w=400"
   },
   {
     name: "Szc0rpion",
     role: "Membre",
     specialty: "réseau, web",
-    quote: "Agir sans laisser de trace. Servir sans nom.",
+    quote: "'Agir sans logs. Scanner sans bruit. Disparaître comme un TTL expiré.'",
     avatar: "https://images.pexels.com/photos/1542085/pexels-photo-1542085.jpeg?auto=compress&cs=tinysrgb&w=400"
   },
   {
     name: "Shlakii",
     role: "Membre",
     specialty: "réseau",
-    quote: "Nouveau membre, futur étudiant à Oteria !",
+    quote: "Nouveau membre. Futur étudiant à Oteria. 'Son Wireshark a déjà un skin custom.'",
     avatar: "https://images.pexels.com/photos/1172207/pexels-photo-1172207.jpeg?auto=compress&cs=tinysrgb&w=400"
   },
   {
     name: "Reyko",
     role: "Membre",
     specialty: "hardware, forensic",
-    quote: "A cracké une clé RSA en mesurant la consommation électrique d'une ampoule connectée. 'Ton chiffrement? Il fuit par les EMI, mon pote'",
+    quote: "A dumpé une clé RSA en écoutant le bruit d’une ampoule connectée. 'Ton chiffrement fuit par les ondes, bro.'",
     avatar: "https://images.pexels.com/photos/1080213/pexels-photo-1080213.jpeg?auto=compress&cs=tinysrgb&w=400"
   }
 ];

@@ -22,7 +22,7 @@ const writeups = [
     difficulty: "Extreme",
     date: "2024-06-20",
     views: 2156,
-    likes: 156,
+    likes: 1560,
     readTime: "15 min",
     excerpt: "Analyse complète d'un malware utilisant des techniques de morphisme avancées pour échapper à la détection...",
     tags: ["Assembly", "IDA Pro", "Unpacking"],
