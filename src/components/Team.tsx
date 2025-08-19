@@ -7,140 +7,140 @@ const teamMembers = [
     role: "Chef",
     specialty: "reverse",
     quote: "Peut unpacker un binaire avant même que vous ayez fini de le télécharger...",
-    avatar: "https://images.pexels.com/photos/614810/pexels-photo-614810.jpeg?auto=compress&cs=tinysrgb&w=400"
+    avatar: "https://images.unsplash.com/photo-1578662996442-48f60103fc96?w=400&h=400&fit=crop&crop=face"
   },
   {
     name: "Loutre",
     role: "Membre",
     specialty: "web (xss)",
     quote: "A XSSé son propre frigo connecté. 'Mon yaourt a poppé une alert(1)...'",
-    avatar: "https://images.pexels.com/photos/1239291/pexels-photo-1239291.jpeg?auto=compress&cs=tinysrgb&w=400"
+    avatar: "https://images.unsplash.com/photo-1628771065518-0d82f1938462?w=400&h=400&fit=crop"
   },
   {
     name: "Ognon",
     role: "Membre",
     specialty: "web, Active Directory",
-    quote: "Fait pleurer les admins comme des oignons. 'Un DC de down ? Normal, j’ai juste ouvert Outlook.'",
-    avatar: "https://images.pexels.com/photos/2379004/pexels-photo-2379004.jpeg?auto=compress&cs=tinysrgb&w=400"
+    quote: "Fait pleurer les admins comme des oignons. 'Un DC de down ? Normal, j'ai juste ouvert Outlook.'",
+    avatar: "https://images.unsplash.com/photo-1518977676601-b53f82aba655?w=400&h=400&fit=crop"
   },
   {
     name: "Ssor",
     role: "Membre",
     specialty: "web",
     quote: "Son IDE préféré : cat. Son debugger : echo. 'Le reste c'est du confort inutile.'",
-    avatar: "https://images.pexels.com/photos/1181686/pexels-photo-1181686.jpeg?auto=compress&cs=tinysrgb&w=400"
+    avatar: "https://images.unsplash.com/photo-1560806887-1e4cd0b6cbd6?w=400&h=400&fit=crop"
   },
   {
     name: "Tisco",
     role: "Membre",
     specialty: "web, réseau",
-    quote: "Sniffe les paquets réseau en tendant l’oreille. 'Ping flood ? J’ai entendu un écho.'",
-    avatar: "https://images.pexels.com/photos/1080213/pexels-photo-1080213.jpeg?auto=compress&cs=tinysrgb&w=400"
+    quote: "Sniffe les paquets réseau en tendant l'oreille. 'Ping flood ? J'ai entendu un écho.'",
+    avatar: "https://images.unsplash.com/photo-1571771019784-3ff35f4f4277?w=400&h=400&fit=crop"
   },
   {
     name: "vorstag34",
     role: "Membre",
     specialty: "goat ultime il sait tout faire",
     quote: "Peut faire une RCE avec une calculatrice Casio. 'Flag trouvé sur la TI-83.'",
-    avatar: "https://images.pexels.com/photos/1559486/pexels-photo-1559486.jpeg?auto=compress&cs=tinysrgb&w=400"
+    avatar: "https://images.unsplash.com/photo-1590736969955-71cc94901144?w=400&h=400&fit=crop"
   },
   {
     name: "bloman",
     role: "Membre",
     specialty: "boot2root, couteau suisse",
     quote: "'Root trop facile ? Je me suis volontairement rétrogradé en nobody pour la beauté du geste.'",
-    avatar: "https://images.pexels.com/photos/1222271/pexels-photo-1222271.jpeg?auto=compress&cs=tinysrgb&w=400"
+    avatar: "https://images.unsplash.com/photo-1619566636858-adf3ef46400b?w=400&h=400&fit=crop"
   },
   {
     name: "H4ldir",
     role: "Membre",
     specialty: "forensic, osint",
     quote: "Retrouve des clés privées dans les métadonnées des selfies. 'Ton flag fuit plus que ton ex sur Insta.'",
-    avatar: "https://images.pexels.com/photos/1043471/pexels-photo-1043471.jpeg?auto=compress&cs=tinysrgb&w=400"
+    avatar: "https://images.unsplash.com/photo-1587049016823-c90bb485707e?w=400&h=400&fit=crop"
   },
   {
     name: "Shor",
     role: "Membre",
     specialty: "web, pwn",
     quote: "Pwner professionnel. 'Segfault ? Non, c'est ma feature de debug.'",
-    avatar: "https://images.pexels.com/photos/2182970/pexels-photo-2182970.jpeg?auto=compress&cs=tinysrgb&w=400"
+    avatar: "https://images.unsplash.com/photo-1551024506-0bccd828d307?w=400&h=400&fit=crop"
   },
   {
     name: "z3d",
     role: "Membre",
     specialty: "web, crypto",
-    quote: "Cryptographe en herbe. 'J’ai cassé ce RSA… la clé était sous le paillasson.'",
-    avatar: "https://images.pexels.com/photos/1105666/pexels-photo-1105666.jpeg?auto=compress&cs=tinysrgb&w=400"
+    quote: "Cryptographe en herbe. 'J'ai cassé ce RSA… la clé était sous le paillasson.'",
+    avatar: "https://images.unsplash.com/photo-1546069901-ba9599a7e63c?w=400&h=400&fit=crop"
   },
   {
     name: "toby",
     role: "Membre",
     specialty: "rev, crypto",
-    quote: "Le crack du reverse. 'Pendant que tu lis ça, j’ai déjà fini le CTF.'",
-    avatar: "https://images.pexels.com/photos/1681010/pexels-photo-1681010.jpeg?auto=compress&cs=tinysrgb&w=400"
+    quote: "Le crack du reverse. 'Pendant que tu lis ça, j'ai déjà fini le CTF.'",
+    avatar: "https://images.unsplash.com/photo-1565299624946-b28f40a0ca4b?w=400&h=400&fit=crop"
   },
   {
     name: "paw",
     role: "Membre",
     specialty: "web, pwn",
-    quote: "Chasseur de bugs. 'C’est pas un bug, c’est ma backdoor perso.'",
-    avatar: "https://images.pexels.com/photos/1545590/pexels-photo-1545590.jpeg?auto=compress&cs=tinysrgb&w=400"
+    quote: "Chasseur de bugs. 'C'est pas un bug, c'est ma backdoor perso.'",
+    avatar: "https://images.unsplash.com/photo-1581833971358-2c8b550f87b3?w=400&h=400&fit=crop"
   },
   {
     name: "Kuzamyy",
     role: "Membre",
     specialty: "web, couteau suisse",
-    quote: "Polyvalent. 'J’ai recodé Metasploit en Brainfuck, pour le fun.'",
-    avatar: "https://images.pexels.com/photos/1680172/pexels-photo-1680172.jpeg?auto=compress&cs=tinysrgb&w=400"
+    quote: "Polyvalent. 'J'ai recodé Metasploit en Brainfuck, pour le fun.'",
+    avatar: "https://images.unsplash.com/photo-1549298916-b41d501d3772?w=400&h=400&fit=crop"
   },
   {
     name: "Blossom",
     role: "Membre",
     specialty: "forensic, crypto",
     quote: "Sort des flags de nulle part. 'Ton JPEG est un CTF à lui tout seul.'",
-    avatar: "https://images.pexels.com/photos/1130626/pexels-photo-1130626.jpeg?auto=compress&cs=tinysrgb&w=400"
+    avatar: "https://images.unsplash.com/photo-1574856344991-aaa31b6f4ce3?w=400&h=400&fit=crop"
   },
   {
     name: "Prox",
     role: "Membre",
     specialty: "osint, stégano",
-    quote: "A trouvé 16 failles critiques sur l’infra de 42 en une journée ! Et il est challmaker osint x stégano à ses heures perdues.",
-    avatar: "https://images.pexels.com/photos/1024311/pexels-photo-1024311.jpeg?auto=compress&cs=tinysrgb&w=400"
+    quote: "A trouvé 16 failles critiques sur l'infra de 42 en une journée ! Et il est challmaker osint x stégano à ses heures perdues.",
+    avatar: "https://images.unsplash.com/photo-1601004890684-d8cbf643f5f2?w=400&h=400&fit=crop"
   },
   {
     name: "Astral",
     role: "Membre",
     specialty: "réseau, web",
     quote: "Frag shooter & net hacker. 'Mon headshot ? Juste un exploit UDP.'",
-    avatar: "https://images.pexels.com/photos/1040881/pexels-photo-1040881.jpeg?auto=compress&cs=tinysrgb&w=400"
+    avatar: "https://images.unsplash.com/photo-1552010099-5dc86fcfaa38?w=400&h=400&fit=crop"
   },
   {
     name: "Kaiimos",
     role: "Membre",
     specialty: "débutant",
     quote: "A déjà root son propre PC par accident. 'Exploit non intentionnel validé.'",
-    avatar: "https://images.pexels.com/photos/1288182/pexels-photo-1288182.jpeg?auto=compress&cs=tinysrgb&w=400"
+    avatar: "https://images.unsplash.com/photo-1609081219090-a6d81d3085bf?w=400&h=400&fit=crop"
   },
   {
     name: "Szc0rpion",
     role: "Membre",
     specialty: "réseau, web",
     quote: "'Agir sans logs. Scanner sans bruit. Disparaître comme un TTL expiré.'",
-    avatar: "https://images.pexels.com/photos/1542085/pexels-photo-1542085.jpeg?auto=compress&cs=tinysrgb&w=400"
+    avatar: "https://images.unsplash.com/photo-1586190848861-99aa4a171e90?w=400&h=400&fit=crop"
   },
   {
     name: "Shlakii",
     role: "Membre",
     specialty: "réseau",
     quote: "Nouveau membre. Futur étudiant à Oteria. 'Son Wireshark a déjà un skin custom.'",
-    avatar: "https://images.pexels.com/photos/1172207/pexels-photo-1172207.jpeg?auto=compress&cs=tinysrgb&w=400"
+    avatar: "https://images.unsplash.com/photo-1553279768-865429fa0078?w=400&h=400&fit=crop"
   },
   {
     name: "Reyko",
     role: "Membre",
     specialty: "hardware, forensic",
-    quote: "A dumpé une clé RSA en écoutant le bruit d’une ampoule connectée. 'Ton chiffrement fuit par les ondes, bro.'",
-    avatar: "https://images.pexels.com/photos/1080213/pexels-photo-1080213.jpeg?auto=compress&cs=tinysrgb&w=400"
+    quote: "A dumpé une clé RSA en écoutant le bruit d'une ampoule connectée. 'Ton chiffrement fuit par les ondes, bro.'",
+    avatar: "https://images.unsplash.com/photo-1619566636890-d68bf675410f?w=400&h=400&fit=crop"
   }
 ];
 
