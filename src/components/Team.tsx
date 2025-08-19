@@ -21,7 +21,7 @@ const teamMembers = [
     role: "Membre",
     specialty: "web, Active Directory",
     quote: "Fait pleurer les admins comme des oignons. 'Un DC de down ? Normal, j'ai juste ouvert Outlook.'",
-    avatar: "https://images.unsplash.com/photo-1518977676601-b53f82aba655?w=400&h=400&fit=crop"
+    avatar: "https://images.unsplash.com/photo-1524593564501-fd747698ddf7?w=400&h=400&fit=crop"
   },
   {
     name: "Ssor",
