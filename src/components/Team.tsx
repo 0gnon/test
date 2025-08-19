@@ -42,7 +42,7 @@ const teamMembers = [
     role: "Membre",
     specialty: "goat ultime il sait tout faire",
     quote: "Peut faire une RCE avec une calculatrice Casio. 'Flag trouvé sur la TI-83.'",
-    avatar: "https://images.unsplash.com/photo-1590736969955-71cc94901144?w=400&h=400&fit=crop"
+    avatar: "https://images.unsplash.com/photo-1577003833619-76bbd7f82948?w=400&h=400&fit=crop"
   },
   {
     name: "bloman",
@@ -56,7 +56,7 @@ const teamMembers = [
     role: "Membre",
     specialty: "forensic, osint",
     quote: "Retrouve des clés privées dans les métadonnées des selfies. 'Ton flag fuit plus que ton ex sur Insta.'",
-    avatar: "https://images.unsplash.com/photo-1587049016823-c90bb485707e?w=400&h=400&fit=crop"
+    avatar: "https://images.unsplash.com/photo-1506905925346-21bda4d32df4?w=400&h=400&fit=crop"
   },
   {
     name: "Shor",
