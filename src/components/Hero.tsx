@@ -35,7 +35,7 @@ export default function Hero() {
         </div>
 
         <h1 className="text-6xl md:text-8xl font-bold mb-6 bg-gradient-to-r from-green-400 via-blue-400 to-purple-500 bg-clip-text text-transparent">
-          TEAM CTF
+          Freep0nx
         </h1>
 
         <div className="text-xl md:text-2xl text-green-400 font-mono mb-8 h-8">
