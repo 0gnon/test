@@ -69,7 +69,7 @@ export default function Hero() {
             { number: '20+', label: 'Membres actifs' },
             { number: '150+', label: 'CTFs participés' },
             { number: '500+', label: 'Challenges résolus' },
-            { number: '#42', label: 'Classement mondial' }
+            { number: '#1', label: 'Classement mondial' }
           ].map((stat, index) => (
             <div key={index} className="text-center group">
               <div className="text-3xl md:text-4xl font-bold text-green-400 group-hover:text-blue-400 transition-colors duration-200">
